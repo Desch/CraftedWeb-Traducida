@@ -58,7 +58,7 @@ function editAccANow(id)
 
 function removeAccA(id) 
 {
-	$("#loading").html("Estas seguro de eliminar el acceso de esta cuenta de Maestro de Juego? <br/>\
+	$("#loading").html("Seguro que quieres eliminar el acceso de esta cuenta de MJ? <br/>\
 	<input type='submit' value='Si' onclick='removeAccANow(" + id + ")'> <input type='submit' value='No' onclick='hideLoader()'>");
 	
 	showLoader();
@@ -102,7 +102,7 @@ function addAccANow()
 
 function editChar(guid,rid)
 {
-	$("#loading").html("Estas seguro de guardar este personaje? <br/>\
+	$("#loading").html("Seguro que quieres guardar este personaje? <br/>\
 	<input type='submit' value='Si' onclick='editCharNow("+ guid + "," + rid + ")'> <input type='submit' value='No' onclick='hideLoader()'>");
 	
 	showLoader();
