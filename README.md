@@ -1,9 +1,7 @@
-CraftedWeb Traducida EspaÒol
+CraftedWeb Traducida Espa√±ol
 ================
 
-VersiÛn de CraftedWeb similar a la originar, traducida completamente.
-La traducciÛn ha sido realizada archivo por archivo, en breve se lanzar· en forma de arrays, utilizando un sistema de multi-language.
+Versi√≥n de CraftedWeb similar a la originar, traducida completamente.
+La traducci√≥n ha sido realizada archivo por archivo, en breve se lanzar√° en forma de arrays, utilizando un sistema de multi-language.
 
-Realizado por Desch OverWoW
-
-
+Realizado por Desch ZoneWoW
